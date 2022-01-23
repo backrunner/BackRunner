@@ -17,7 +17,7 @@ _一只非常随性的前端开发，目前在某南极工厂打工_
 
 如果你对我的项目感兴趣，或者只是想找一个地方吹水，欢迎来我们的 IT 民工聚集地：
 
-[HashGeek IT 民工社区](https://t.me/HashGeekCoder)
+[HashGeek IT 民工社区](https://t.me/HashGeekCoder) (Telegram 群组)
 
 ## 📊 统计
 
