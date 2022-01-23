@@ -1,4 +1,6 @@
-一只非常随性的前端开发，目前在某南极工厂打工
+# BackRunner
+
+*一只非常随性的前端开发，目前在某南极工厂打工*
 
 ## 📦 主力项目
 
@@ -18,6 +20,7 @@
 
 ## 📊 统计
 
-![BackRunner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BackRunner&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api?username=backrunner&theme=dark)
+<div style="display: flex">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@BackRunner&theme=dark" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=backrunner&theme=dark" width="300">
+</div>
