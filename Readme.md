@@ -1,8 +1,8 @@
 # BackRunner
 
-_一只非常随性的前端开发，目前在某南极工厂打工_
+_A causal front-end developer, now working for a large Chinese Internet company._
 
-## 📦 主力项目
+## 📦 Main Projects
 
 <div>
 
@@ -17,13 +17,13 @@ _一只非常随性的前端开发，目前在某南极工厂打工_
 
   </div>
 
-## 🛋️ 社区
+## 🛋️ Community
 
-如果你对我的项目感兴趣，或者只是想找一个地方吹水，欢迎来我们的 IT 民工社区：
+If you are interested in my project, or just looking for a place to talk, welcome to join our community：
 
-[HashGeek IT 民工社区](https://t.me/HashGeekCoder) (Telegram 群组)
+[HashGeek IT 民工社区](https://t.me/HashGeekCoder) (Telegram - Chinese only)
 
-## 📊 统计
+## 📊 Statistics
 
 [<div style="display: flex">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@BackRunner&theme=dark" width="375">](https://wakatime.com/@BackRunner)
