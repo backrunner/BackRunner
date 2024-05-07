@@ -5,17 +5,9 @@ _A causal front-end developer, now working for a large Chinese Internet company.
 ## 📦 Main Projects
 
 <div>
-
  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-app&repo=pixiviz&theme=dark" width="360" alt="Pixiviz">](https://github.com/pwp-app/pixiviz)
-  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=any-design&repo=anyui&theme=dark" width="360" alt="AnyUI">](https://github.com/any-design/anyui)
-
-  </div>
-  <div>
-
-  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=fragyjs&repo=fragy&theme=dark" width="360" alt="Fragy">](https://github.com/fragyjs/fragy)
-  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=tigojs&repo=tigo&theme=dark" width="360" alt="tigo">](https://github.com/tigojs/tigo)
-
-  </div>
+ [<img src="https://github-readme-stats.vercel.app/api/pin/?username=any-design&repo=anyui&theme=dark" width="360" alt="AnyUI">](https://github.com/any-design/anyui)
+</div>
 
 ## 🛋️ Community
 
