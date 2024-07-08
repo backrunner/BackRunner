@@ -16,8 +16,6 @@ If you are interested in my project, or just looking for a place to talk, welcom
 
 [pwp.space](https://pwp.space) (Misskey Fediverse Instance)
 
-[Hash Geek TG](https://t.me/HashGeekCoder) (Telegram - Chinese only - Not usually used)
-
 ## 📊 Statistics
 
 [<div style="display: flex">
