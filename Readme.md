@@ -6,7 +6,7 @@ _A causal front-end developer, now working for a large Chinese Internet company.
 
 <div>
  
- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-app&repo=pixiviz&theme=dark" width="360" alt="Pixiviz">](https://github.com/pwp-app/pixiviz)  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=any-design&repo=anyui&theme=dark" width="360" alt="AnyUI">](https://github.com/any-design/anyui)
+ [<img src="https://github-readme-stats.vercel.app/api/pin/?username=alkinum&repo=alphapush&theme=dark" width="360" alt="AlphaPush">](https://github.com/alkinum/alphapush) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=pwp-app&repo=pixiviz&theme=dark" width="360" alt="Pixiviz">](https://github.com/pwp-app/pixiviz)  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=any-design&repo=anyui&theme=dark" width="360" alt="AnyUI">](https://github.com/any-design/anyui)
 
 </div>
 
