@@ -16,13 +16,6 @@ If you are interested in my project, or just looking for a place to talk, welcom
 
 [pwp.space](https://pwp.space) (Misskey Fediverse Instance)
 
-## 📊 Statistics
-
-[<div style="display: flex">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@BackRunner&theme=dark" width="375">](https://wakatime.com/@BackRunner)
-[<img src="https://github-readme-stats.vercel.app/api?username=backrunner&theme=dark" width="375">](https://github.com/backrunner)
-</div>
-
 ## ☎️ Contact Me
 
 | Method | Info |
