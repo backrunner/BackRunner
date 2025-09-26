@@ -1,6 +1,7 @@
 # BackRunner
 
-_A causal front-end developer, now working for a large Chinese Internet company._
+Whimsical front-end developer, conjuring pixels into reality.
+Transforming wild ideas into sleek code spells. 
 
 ## 🛋️ Community
 
