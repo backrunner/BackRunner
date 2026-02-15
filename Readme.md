@@ -15,4 +15,4 @@ If you are interested in my project, or just looking for a place to talk, welcom
 | ------ | ---- |
 | E-Mail | [dev@backrunner.top](mailto:dev@backrunner.top) |
 | Fediverse | [@backrunner@pwp.space](https://pwp.space/@backrunner) |
-| OpenPGP | [0D99A2EA251E0498](https://keyserver.ubuntu.com/pks/lookup?search=0D99A2EA251E0498&fingerprint=on&op=index) |
+| OpenPGP | [E06B8067F7F8FD31](https://keyserver.ubuntu.com/pks/lookup?search=E06B8067F7F8FD31&fingerprint=on&op=index) |
