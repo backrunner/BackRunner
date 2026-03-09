@@ -3,6 +3,10 @@
 Whimsical front-end developer, conjuring pixels into reality.
 Transforming wild ideas into sleek code spells. 
 
+Now building:
+🐱 [skills.cat](https://skills.cat)
+📌 [Iconwiz](https://iconwiz.app)
+
 ## 🛋️ Community
 
 If you are interested in my project, or just looking for a place to talk, welcome to join our community：
