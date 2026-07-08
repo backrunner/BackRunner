@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://skills.cat"><img alt="SkillsCat" src="https://img.shields.io/badge/SkillsCat-AI%20Agent%20Skills-0B1220?style=for-the-badge&labelColor=0B1220&color=22D3EE"></a>
   <a href="https://iconwiz.app"><img alt="Iconwiz" src="https://img.shields.io/badge/Iconwiz-AI%20Icon%20Generator-0B1220?style=for-the-badge&labelColor=0B1220&color=34D399"></a>
   <a href="https://pwp.space/@backrunner"><img alt="Fediverse" src="https://img.shields.io/badge/Fediverse-%40backrunner-0B1220?style=for-the-badge&labelColor=0B1220&color=F43F5E"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=backrunner&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS">
@@ -41,7 +40,7 @@
         <strong>Iconwiz</strong>
       </a>
       <br />
-      <sub>platform icon sets</sub>
+      <sub>AI Icon Generator</sub>
     </td>
     <td align="center" width="112">
       <a href="https://github.com/backrunner/Serlink">
@@ -79,7 +78,7 @@
         <strong>SveDocs</strong>
       </a>
       <br />
-      <sub>Svelte docs</sub>
+      <sub>Svelte docs framework</sub>
     </td>
     <td align="center" width="112">
       <a href="https://anyui.pwp.sh">
@@ -88,7 +87,7 @@
         <strong>AnyUI</strong>
       </a>
       <br />
-      <sub>Vue 3 components</sub>
+      <sub>Cute UI components</sub>
     </td>
     <td align="center" width="112">
       <a href="https://pixiviz.pwp.app">
@@ -115,7 +114,7 @@
         <strong>AlphaPush</strong>
       </a>
       <br />
-      <sub>Cloudflare push</sub>
+      <sub>Web push PWA</sub>
     </td>
   </tr>
 </table>
