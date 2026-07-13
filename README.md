@@ -1,115 +1,113 @@
-<h1 align="center">Hi, I'm BackRunner.</h1>
+<div align="center">
 
-<p align="center">
-  I build small web products with a soft spot for friendly interfaces, agent workflows, icon systems, and cozy independent communities.
-  <br />
-  I like taking the thought "this should be a tiny tool" and slowly turning it into something real.
-</p>
+# BackRunner
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Front-end+craft+with+tiny+sparks;AI-native+tools+for+real+workflows;Cozy+internet+spaces%2C+polished+interfaces" alt="Typing intro" />
-</p>
+**Independent product builder at the intersection of interface craft, AI tooling, and the small web.**
 
-<p align="center">
-  <a href="https://iconwiz.app"><img alt="Iconwiz" src="https://img.shields.io/badge/Iconwiz-AI%20Icon%20Generator-0B1220?style=for-the-badge&labelColor=0B1220&color=34D399"></a>
-  <a href="https://pwp.space/@backrunner"><img alt="Fediverse" src="https://img.shields.io/badge/Fediverse-%40backrunner-0B1220?style=for-the-badge&labelColor=0B1220&color=F43F5E"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=backrunner&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS">
-</p>
+I make focused tools that feel calm, capable, and a little more human.
 
-<p align="center">
-  <strong>Projects</strong>
-  <br />
-  <sub>Click an icon to visit the little world behind it.</sub>
-</p>
+<sub>PRODUCTS &nbsp;&middot;&nbsp; INTERFACES &nbsp;&middot;&nbsp; AGENT WORKFLOWS &nbsp;&middot;&nbsp; INDEPENDENT WEB</sub>
 
-<table align="center">
+<a href="https://pwp.space/@backrunner"><img alt="Fediverse" src="https://img.shields.io/badge/Fediverse-@backrunner-111827?style=flat-square&labelColor=111827&color=F43F5E"></a>
+<a href="mailto:dev@backrunner.top"><img alt="Email" src="https://img.shields.io/badge/Email-dev@backrunner.top-111827?style=flat-square&labelColor=111827&color=38BDF8"></a>
+
+</div>
+
+## Selected Work
+
+<table width="100%">
   <tr>
-    <td align="center" width="112">
-      <a href="https://skills.cat">
-        <img src="./assets/project-icons/skillscat.png" width="64" height="64" alt="SkillsCat" />
-        <br />
-        <strong>SkillsCat</strong>
-      </a>
-      <br />
-      <sub>AI skill platform</sub>
+    <td width="64" align="center">
+      <a href="https://iconwiz.app"><img src="./assets/project-icons/iconwiz.png" width="48" height="48" alt="Iconwiz logo" /></a>
     </td>
-    <td align="center" width="112">
-      <a href="https://iconwiz.app">
-        <img src="./assets/project-icons/iconwiz.png" width="64" height="64" alt="Iconwiz" />
-        <br />
-        <strong>Iconwiz</strong>
-      </a>
-      <br />
-      <sub>AI Icon Generator</sub>
+    <td valign="middle">
+      <strong><a href="https://iconwiz.app">Iconwiz</a></strong><br />
+      <sub>An AI icon generator for polished, platform-ready assets.</sub>
     </td>
-    <td align="center" width="112">
-      <a href="https://github.com/backrunner/Serlink">
-        <img src="./assets/project-icons/serlink.png" width="64" height="64" alt="Serlink" />
-        <br />
-        <strong>Serlink</strong>
-      </a>
-      <br />
-      <sub>SSH workspace</sub>
+  </tr>
+  <tr>
+    <td width="64" align="center">
+      <a href="https://skills.cat"><img src="./assets/project-icons/skillscat.png" width="48" height="48" alt="SkillsCat logo" /></a>
     </td>
-    <td align="center" width="112">
-      <a href="https://github.com/backrunner/sift">
-        <img src="./assets/project-icons/sift.png" width="64" height="64" alt="sift" />
-        <br />
-        <strong>sift</strong>
-      </a>
-      <br />
-      <sub>iOS junk filter</sub>
+    <td valign="middle">
+      <strong><a href="https://skills.cat">SkillsCat</a></strong><br />
+      <sub>A home for discovering and sharing AI agent skills.</sub>
     </td>
-    <td align="center" width="112">
+  </tr>
+  <tr>
+    <td width="64" align="center">
+      <a href="https://github.com/backrunner/Serlink"><img src="./assets/project-icons/serlink.png" width="48" height="48" alt="Serlink logo" /></a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/backrunner/Serlink">Serlink</a></strong><br />
+      <sub>A focused SSH workspace for remote sessions.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="64" align="center">
+      <a href="https://github.com/backrunner/sift"><img src="./assets/project-icons/sift.png" width="48" height="48" alt="sift logo" /></a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/backrunner/sift">sift</a></strong><br />
+      <sub>A native iOS junk filter built for a quieter inbox.</sub>
+    </td>
+  </tr>
+</table>
+
+## Project Dock
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
       <a href="https://tabitomo.alkinum.io">
-        <img src="./assets/project-icons/tabitomo.png" width="64" height="64" alt="Tabitomo" />
+        <img src="./assets/project-icons/tabitomo.png" width="48" height="48" alt="Tabitomo logo" />
         <br />
         <strong>Tabitomo</strong>
       </a>
       <br />
-      <sub>travel translator</sub>
+      <sub>Travel translator</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="112">
+    <td align="center" width="33%">
       <a href="https://svedocs.pwp.sh">
-        <img src="./assets/project-icons/svedocs.png" width="64" height="64" alt="SveDocs" />
+        <img src="./assets/project-icons/svedocs.png" width="48" height="48" alt="SveDocs logo" />
         <br />
         <strong>SveDocs</strong>
       </a>
       <br />
       <sub>Svelte docs framework</sub>
     </td>
-    <td align="center" width="112">
+    <td align="center" width="33%">
       <a href="https://anyui.pwp.sh">
-        <img src="./assets/project-icons/anyui.png" width="64" height="64" alt="AnyUI" />
+        <img src="./assets/project-icons/anyui.png" width="48" height="48" alt="AnyUI logo" />
         <br />
         <strong>AnyUI</strong>
       </a>
       <br />
       <sub>Cute UI components</sub>
     </td>
-    <td align="center" width="112">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://pixiviz.pwp.app">
-        <img src="./assets/project-icons/pixiviz.png" width="64" height="64" alt="Pixiviz" />
+        <img src="./assets/project-icons/pixiviz.png" width="48" height="48" alt="Pixiviz logo" />
         <br />
         <strong>Pixiviz</strong>
       </a>
       <br />
       <sub>ACG image sharing</sub>
     </td>
-    <td align="center" width="112">
+    <td align="center" width="33%">
       <a href="https://github.com/QuaDevTeam/QuaEngine">
-        <img src="./assets/project-icons/quaengine.png" width="64" height="64" alt="QuaEngine" />
+        <img src="./assets/project-icons/quaengine.png" width="48" height="48" alt="QuaEngine logo" />
         <br />
         <strong>QuaEngine</strong>
       </a>
       <br />
-      <sub>VN engine</sub>
+      <sub>Visual novel engine</sub>
     </td>
-    <td align="center" width="112">
+    <td align="center" width="33%">
       <a href="https://github.com/alkinum/alphapush">
-        <img src="./assets/project-icons/alphapush.png" width="64" height="64" alt="AlphaPush" />
+        <img src="./assets/project-icons/alphapush.png" width="48" height="48" alt="AlphaPush logo" />
         <br />
         <strong>AlphaPush</strong>
       </a>
@@ -121,48 +119,34 @@
 
 ## Community
 
-<table>
+<table width="100%">
   <tr>
     <td width="72" align="center">
-      <a href="https://pwp.space">
-        <img src="./assets/project-icons/pwp-space.png" width="48" height="48" alt="pwp.space logo" />
-      </a>
+      <a href="https://pwp.space"><img src="./assets/project-icons/pwp-space.png" width="52" height="52" alt="pwp.space logo" /></a>
     </td>
-    <td valign="top">
-      <h3><a href="https://pwp.space">pwp.space</a></h3>
-      <p>A Misskey Fediverse instance for project talk, web craft, and quiet independent-social-web energy. Drop by if you like small tools, weird ideas, or just a calmer timeline.</p>
-      <p>
-        <a href="https://pwp.space"><img alt="Join pwp.space" src="https://img.shields.io/badge/Join-pwp.space-111827?style=flat-square&labelColor=111827&color=F43F5E"></a>
-        <a href="https://pwp.space/@backrunner"><img alt="Follow on Fediverse" src="https://img.shields.io/badge/Follow-%40backrunner-111827?style=flat-square&labelColor=111827&color=FB7185"></a>
-      </p>
+    <td valign="middle">
+      <strong><a href="https://pwp.space">pwp.space</a></strong><br />
+      <sub>A small Misskey community for project talk, web craft, strange ideas, and a calmer timeline.</sub>
+      <br />
+      <sub><a href="https://pwp.space">Visit the community</a> &middot; <a href="https://pwp.space/@backrunner">Follow @backrunner</a></sub>
     </td>
   </tr>
 </table>
 
-## Tools I Reach For
+## How I Build
+
+Calm first, clever second. I care about clear empty states, short paths through messy workflows, and small details that make software feel considered without getting in the way.
 
 <p align="center">
-  <img alt="Tools I reach for" src="https://skillicons.dev/icons?i=ts,svelte,nextjs,vue,cloudflare,workers,swift,flutter&theme=dark" />
+  <img alt="TypeScript, Svelte, Next.js, Vue, Cloudflare, Workers, Swift, and Flutter" src="https://skillicons.dev/icons?i=ts,svelte,nextjs,vue,cloudflare,workers,swift,flutter&theme=dark" />
 </p>
-
-```txt
-interface craft  -> calm first, clever second
-agent tooling    -> portable skills, visible workflows
-community space  -> small-web energy, open conversation
-```
-
-## How I Like To Build
-
-I like products that are sharp enough to be useful, playful enough to be remembered, and simple enough to survive real use.
-
-My favorite details are the ones people stop noticing because they just feel right: a clear empty state, a fast path through a messy workflow, a tiny animation that makes the interface feel less lonely.
 
 ## Say Hello
 
-If you are building near AI agents, design tooling, icons, front-end systems, or independent social spaces, I would be happy to meet you.
+Working on AI agents, design tooling, front-end systems, or independent social spaces? I would be happy to compare notes.
 
 <p>
-  <a href="mailto:dev@backrunner.top"><img alt="E-Mail" src="https://img.shields.io/badge/E--Mail-dev%40backrunner.top-0B1220?style=for-the-badge&labelColor=0B1220&color=38BDF8"></a>
-  <a href="https://pwp.space/@backrunner"><img alt="Fediverse" src="https://img.shields.io/badge/Fediverse-%40backrunner%40pwp.space-0B1220?style=for-the-badge&labelColor=0B1220&color=F43F5E"></a>
-  <a href="https://keyserver.ubuntu.com/pks/lookup?search=E06B8067F7F8FD31&fingerprint=on&op=index"><img alt="OpenPGP" src="https://img.shields.io/badge/OpenPGP-E06B8067F7F8FD31-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA"></a>
+  <a href="mailto:dev@backrunner.top"><img alt="Email" src="https://img.shields.io/badge/Email-dev@backrunner.top-0B1220?style=flat-square&labelColor=0B1220&color=38BDF8"></a>
+  <a href="https://pwp.space/@backrunner"><img alt="Fediverse" src="https://img.shields.io/badge/Fediverse-@backrunner@pwp.space-0B1220?style=flat-square&labelColor=0B1220&color=F43F5E"></a>
+  <a href="https://keyserver.ubuntu.com/pks/lookup?search=E06B8067F7F8FD31&fingerprint=on&op=index"><img alt="OpenPGP key E06B8067F7F8FD31" src="https://img.shields.io/badge/OpenPGP-E06B8067F7F8FD31-0B1220?style=flat-square&labelColor=0B1220&color=A78BFA"></a>
 </p>
