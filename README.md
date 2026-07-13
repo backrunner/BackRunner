@@ -24,8 +24,7 @@ I design and ship focused tools that turn complicated workflows into calm, capab
     </td>
     <td valign="top">
       <strong><a href="https://iconwiz.app">Iconwiz</a></strong><br />
-      An AI icon generator for polished, platform-ready assets.<br />
-      <sub>GENERATIVE DESIGN &nbsp;&middot;&nbsp; ICON SYSTEMS &nbsp;&middot;&nbsp; DESKTOP</sub>
+      An AI icon generator for polished, platform-ready assets.
     </td>
   </tr>
   <tr>
@@ -34,8 +33,7 @@ I design and ship focused tools that turn complicated workflows into calm, capab
     </td>
     <td valign="top">
       <strong><a href="https://skills.cat">SkillsCat</a></strong><br />
-      A home for discovering and sharing practical AI agent skills.<br />
-      <sub>AGENT ECOSYSTEM &nbsp;&middot;&nbsp; DISCOVERY &nbsp;&middot;&nbsp; CLOUD</sub>
+      A home for discovering and sharing practical AI agent skills.
     </td>
   </tr>
   <tr>
@@ -44,8 +42,7 @@ I design and ship focused tools that turn complicated workflows into calm, capab
     </td>
     <td valign="top">
       <strong><a href="https://github.com/backrunner/Serlink">Serlink</a></strong><br />
-      A focused SSH workspace for remote sessions.<br />
-      <sub>REMOTE WORK &nbsp;&middot;&nbsp; NATIVE UI &nbsp;&middot;&nbsp; DEVELOPER TOOLS</sub>
+      A focused SSH workspace for remote sessions.
     </td>
   </tr>
   <tr>
@@ -54,43 +51,46 @@ I design and ship focused tools that turn complicated workflows into calm, capab
     </td>
     <td valign="top">
       <strong><a href="https://github.com/backrunner/sift">sift</a></strong><br />
-      A native iOS junk filter built for a quieter inbox.<br />
-      <sub>IOS &nbsp;&middot;&nbsp; PRIVACY &nbsp;&middot;&nbsp; QUIET SOFTWARE</sub>
+      A native iOS junk filter built for a quieter inbox.
     </td>
   </tr>
 </table>
 
-## Project Dock
+## Other Works
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://tabitomo.alkinum.io"><img src="./assets/project-icons/tabitomo.png" width="36" height="36" alt="Tabitomo logo" /> <strong>Tabitomo</strong></a><br />
-      <sub>Travel translator</sub>
+    <td width="33.33%" valign="top">
+      <a href="https://tabitomo.alkinum.io"><img align="left" src="./assets/project-icons/tabitomo.png" width="32" height="32" alt="Tabitomo logo" /></a>
+      &nbsp;&nbsp;<strong><a href="https://tabitomo.alkinum.io">Tabitomo</a></strong><br />
+      &nbsp;&nbsp;<sub>Travel translator</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://svedocs.pwp.sh"><img src="./assets/project-icons/svedocs.png" width="36" height="36" alt="SveDocs logo" /> <strong>SveDocs</strong></a><br />
-      <sub>Svelte documentation framework</sub>
+    <td width="33.33%" valign="top">
+      <a href="https://svedocs.pwp.sh"><img align="left" src="./assets/project-icons/svedocs.png" width="32" height="32" alt="SveDocs logo" /></a>
+      &nbsp;&nbsp;<strong><a href="https://svedocs.pwp.sh">SveDocs</a></strong><br />
+      &nbsp;&nbsp;<sub>Svelte documentation framework</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://anyui.pwp.sh"><img src="./assets/project-icons/anyui.png" width="36" height="36" alt="AnyUI logo" /> <strong>AnyUI</strong></a><br />
-      <sub>Friendly UI components</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://pixiviz.pwp.app"><img src="./assets/project-icons/pixiviz.png" width="36" height="36" alt="Pixiviz logo" /> <strong>Pixiviz</strong></a><br />
-      <sub>ACG image sharing</sub>
+    <td width="33.33%" valign="top">
+      <a href="https://anyui.pwp.sh"><img align="left" src="./assets/project-icons/anyui.png" width="32" height="32" alt="AnyUI logo" /></a>
+      &nbsp;&nbsp;<strong><a href="https://anyui.pwp.sh">AnyUI</a></strong><br />
+      &nbsp;&nbsp;<sub>Friendly UI components</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/QuaDevTeam/QuaEngine"><img src="./assets/project-icons/quaengine.png" width="36" height="36" alt="QuaEngine logo" /> <strong>QuaEngine</strong></a><br />
-      <sub>Visual novel engine</sub>
+    <td width="33.33%" valign="top">
+      <a href="https://pixiviz.pwp.app"><img align="left" src="./assets/project-icons/pixiviz.png" width="32" height="32" alt="Pixiviz logo" /></a>
+      &nbsp;&nbsp;<strong><a href="https://pixiviz.pwp.app">Pixiviz</a></strong><br />
+      &nbsp;&nbsp;<sub>ACG image sharing</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alkinum/alphapush"><img src="./assets/project-icons/alphapush.png" width="36" height="36" alt="AlphaPush logo" /> <strong>AlphaPush</strong></a><br />
-      <sub>Web push PWA</sub>
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/QuaDevTeam/QuaEngine"><img align="left" src="./assets/project-icons/quaengine.png" width="32" height="32" alt="QuaEngine logo" /></a>
+      &nbsp;&nbsp;<strong><a href="https://github.com/QuaDevTeam/QuaEngine">QuaEngine</a></strong><br />
+      &nbsp;&nbsp;<sub>Visual novel engine</sub>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/alkinum/alphapush"><img align="left" src="./assets/project-icons/alphapush.png" width="32" height="32" alt="AlphaPush logo" /></a>
+      &nbsp;&nbsp;<strong><a href="https://github.com/alkinum/alphapush">AlphaPush</a></strong><br />
+      &nbsp;&nbsp;<sub>Web push PWA</sub>
     </td>
   </tr>
 </table>
