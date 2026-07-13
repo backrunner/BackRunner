@@ -1,4 +1,6 @@
-<img src="./assets/hero/backrunner-workbench.png" width="100%" alt="A modular digital workbench connected by red and cyan signal paths" />
+<p align="center">
+  <img src="./assets/hero/backrunner-workbench-animated.gif" width="90%" alt="An animated modular digital workbench connected by red and cyan signal paths" />
+</p>
 
 # BackRunner
 
