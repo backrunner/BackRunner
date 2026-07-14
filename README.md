@@ -57,8 +57,8 @@ I design and ship focused tools that turn complicated workflows into calm, capab
 </table>
 
 ## Other Works
-
-<table width="100%">
+ 
+<table width="600px">
   <tr>
     <td width="33.33%" valign="top">
       <a href="https://tabitomo.alkinum.io"><img align="left" src="./assets/project-icons/tabitomo.png" width="32" height="32" alt="Tabitomo logo" /></a>
