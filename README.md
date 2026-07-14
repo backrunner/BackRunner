@@ -62,29 +62,29 @@ I design and ship focused tools that turn complicated workflows into calm, capab
   <tr>
     <td width="33.33%" valign="top">
       <a href="https://tabitomo.alkinum.io"><img align="left" src="./assets/project-icons/tabitomo.png" width="32" height="32" alt="Tabitomo logo" /></a>
-      &nbsp;&nbsp;<strong><a href="https://tabitomo.alkinum.io">Tabitomo</a></strong>
+      <strong><a href="https://tabitomo.alkinum.io">Tabitomo</a></strong>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://svedocs.pwp.sh"><img align="left" src="./assets/project-icons/svedocs.png" width="32" height="32" alt="SveDocs logo" /></a>
-      &nbsp;&nbsp;<strong><a href="https://svedocs.pwp.sh">SveDocs</a></strong>
+      <strong><a href="https://svedocs.pwp.sh">SveDocs</a></strong>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://anyui.pwp.sh"><img align="left" src="./assets/project-icons/anyui.png" width="32" height="32" alt="AnyUI logo" /></a>
-      &nbsp;&nbsp;<strong><a href="https://anyui.pwp.sh">AnyUI</a></strong>
+      <strong><a href="https://anyui.pwp.sh">AnyUI</a></strong>
     </td>
   </tr>
   <tr>
     <td width="33.33%" valign="top">
       <a href="https://pixiviz.pwp.app"><img align="left" src="./assets/project-icons/pixiviz.png" width="32" height="32" alt="Pixiviz logo" /></a>
-      &nbsp;&nbsp;<strong><a href="https://pixiviz.pwp.app">Pixiviz</a></strong>
+      <strong><a href="https://pixiviz.pwp.app">Pixiviz</a></strong>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/QuaDevTeam/QuaEngine"><img align="left" src="./assets/project-icons/quaengine.png" width="32" height="32" alt="QuaEngine logo" /></a>
-      &nbsp;&nbsp;<strong><a href="https://github.com/QuaDevTeam/QuaEngine">QuaEngine</a></strong>
+      <strong><a href="https://github.com/QuaDevTeam/QuaEngine">QuaEngine</a></strong>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/alkinum/alphapush"><img align="left" src="./assets/project-icons/alphapush.png" width="32" height="32" alt="AlphaPush logo" /></a>
-      &nbsp;&nbsp;<strong><a href="https://github.com/alkinum/alphapush">AlphaPush</a></strong>
+      <strong><a href="https://github.com/alkinum/alphapush">AlphaPush</a></strong>
     </td>
   </tr>
 </table>
