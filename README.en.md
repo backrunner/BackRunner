@@ -6,39 +6,39 @@
 
 # Hi, I'm BackRunner 👋
 
-I build tools I'd like to use myself, care about the details of an interface, and leave room for curious ideas.
+I build tools and open-source projects I actually want to use, with a focus on clean interfaces and thoughtful details.
 
-This is a collection of my independent products, open-source projects, and a small corner of the web. Feel free to explore or say hello.
+Here's what I've been working on—feel free to poke around or say hi.
 
 [Find me on the Fediverse](https://pwp.space/@backrunner) · [Email me](mailto:dev@backrunner.top)
 
-## My project cassette box
+## Projects
 
-A cassette box for the projects I am building. Click any project name below to open its repository.
+Here are the projects I'm currently building and maintaining. Click any name to open its repository.
 
 <p align="center">
   <img src="./assets/lofi/project-cassette-box.webp" width="100%" alt="A cyan-blue storage box holds nine project cassette cases in the same order as the list below." />
 </p>
 
-- **[QuaEngine](https://github.com/QuaDevTeam/QuaEngine)** · A visual novel engine with QuaScript stories, TypeScript logic, and an Electron authoring workspace.
-- **[mixless](https://github.com/backrunner/mixless)** · Dual decks, AutoMix, and local AI audio analysis for mixing your own music.
-- **[AIPass](https://github.com/backrunner/aipass)** · A local encrypted vault for AI provider keys and supported subscriptions, shared across desktop, CLI, and browser workflows.
+- **[QuaEngine](https://github.com/QuaDevTeam/QuaEngine)** · A visual novel engine combining QuaScript for stories, TypeScript for logic, and an Electron authoring workspace.
+- **[mixless](https://github.com/backrunner/mixless)** · A local DJ mixing app with dual decks, AutoMix, and on-device AI audio analysis.
+- **[AIPass](https://github.com/backrunner/aipass)** · A local encrypted vault for AI API keys and supported subscriptions, shared across desktop, CLI, and browser workflows.
 - **[SkillsCat](https://github.com/SkillsCat/skillscat)** · An open registry and CLI for discovering, publishing, and installing AI agent skills.
-- **[Serlink](https://github.com/backrunner/Serlink)** · A private workspace for SSH sessions, SFTP transfers, and server connections. In development; public production builds are not ready yet.
-- **[Removent](https://github.com/backrunner/removent)** · Remote desktop over your LAN or a self-hosted relay, with iPhone and iPad controllers for Macs.
-- **[Sift](https://github.com/backrunner/sift)** · On-device SMS classification and filtering for iPhone. Pre-release; not on the App Store yet.
-- **[svedocs](https://github.com/backrunner/svedocs)** · A SvelteKit-native docs framework with content, navigation, search, and Ask AI. In active development.
-- **[GlidePod](https://github.com/backrunner/glidepod)** · Android apps in independent windows on Apple Silicon Macs. Experimental developer preview; requires a separately prepared runtime.
+- **[Serlink](https://github.com/backrunner/Serlink)** · A workspace for managing SSH sessions, SFTP transfers, and server connections (in development, no public release yet).
+- **[Removent](https://github.com/backrunner/removent)** · Remote desktop over LAN or a self-hosted relay, with iPhone and iPad support for controlling your Mac.
+- **[Sift](https://github.com/backrunner/sift)** · On-device SMS classification and filtering for iPhone (pre-release, not on the App Store yet).
+- **[svedocs](https://github.com/backrunner/svedocs)** · A SvelteKit-native docs framework for edge deployment, with built-in navigation, search, and Ask AI (in active development).
+- **[GlidePod](https://github.com/backrunner/glidepod)** · Run Android apps in standalone windows on Apple Silicon Macs (experimental preview, requires a separate runtime).
 
-## How I build
+## How I work
 
-I'm interested in interface design, AI tools, and the independent web. I like making complicated workflows easier to understand and use.
+I spend most of my time on interface design, AI tools, and indie web projects. I try to keep workflows straightforward and interfaces easy to pick up.
 
-My usual tools include TypeScript, Svelte, Next.js, Vue, Cloudflare, Swift, and Flutter. The choice depends on the problem.
+My go-to stack includes TypeScript, Svelte, Next.js, Vue, Cloudflare, Swift, and Flutter, depending on what the project calls for.
 
 ## Say hello
 
-Building a small tool, exploring AI agents, working on the front end, or running your own community? I'd be happy to compare notes. Project suggestions are also welcome in the relevant repository's issues.
+If you're working on similar tools, AI agents, or web projects, feel free to reach out. For bugs or ideas on any of the projects above, you can also open an issue in the corresponding repo.
 
 [dev@backrunner.top](mailto:dev@backrunner.top) · [@backrunner@pwp.space](https://pwp.space/@backrunner)
 
