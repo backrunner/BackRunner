@@ -10,35 +10,35 @@
 
 这里放着我的独立产品、开源项目，以及一小片自己的互联网。可以看看作品，也欢迎来聊聊。
 
-[逛逛我的社区](https://pwp.space) · [在联邦宇宙找到我](https://pwp.space/@backrunner) · [发封邮件](mailto:dev@backrunner.top)
+[在联邦宇宙找到我](https://pwp.space/@backrunner) · [发封邮件](mailto:dev@backrunner.top)
 
 ## 我的作品托盘
 
-<p align="center">
-  <img src="./assets/lofi/project-tray.webp" width="100%" alt="窗边的复古游戏卡带托盘：画笔、机器人、终端与消息气泡，分别呼应下面的四个项目。" />
-</p>
-
-像收集喜欢的游戏一样，把做过的工具放进这个小托盘。挑一张看看：
-
-- **[Iconwiz](https://iconwiz.app)** · 把想法做成图标。从 AI 生成、免费编辑，到网站、手机和桌面应用的图标导出。
-- **[SkillsCat](https://skills.cat)** · 给 AI Agent 找到合用的技能，也让自己写的技能更容易被发现、分享和安装。
-- **[Serlink](https://github.com/backrunner/Serlink)** · 把 SSH 终端、SFTP 文件传输和服务器连接整理在一个工作台里。开发中，公开正式版本尚未就绪。
-- **[Sift](https://github.com/backrunner/sift)** · 在 iPhone 本地分类和过滤短信，让收件箱清静一点。开发中，尚未上架 App Store。
-
-### 还有这些
-
-[Tabitomo](https://tabitomo.alkinum.io) · [SveDocs](https://svedocs.pwp.sh) · [AnyUI](https://anyui.pwp.sh)<br />
-[Pixiviz](https://pixiviz.pwp.app) · [QuaEngine](https://github.com/QuaDevTeam/QuaEngine) · [AlphaPush](https://github.com/alkinum/alphapush)
-
-## 互联网的一小角
+每一张卡带，都是一个正在认真做的项目。点击卡带或项目名，就可以打开仓库。
 
 <p align="center">
-  <a href="https://pwp.space/@backrunner"><img src="./assets/lofi/fediverse-window.webp" width="560" alt="推开窗，来联邦宇宙打个招呼：访问 BackRunner 的 pwp.space 主页。" /></a>
+  <a href="https://github.com/QuaDevTeam/QuaEngine"><img src="./assets/cartridges/quaengine.webp" width="31%" alt="QuaEngine · 视觉小说引擎" /></a>
+  <a href="https://github.com/backrunner/mixless"><img src="./assets/cartridges/mixless.webp" width="31%" alt="mixless · 原生 DJ 工作台" /></a>
+  <a href="https://github.com/backrunner/aipass"><img src="./assets/cartridges/aipass.webp" width="31%" alt="AIPass · AI 凭据管理" /></a>
+  <br />
+  <a href="https://github.com/SkillsCat/skillscat"><img src="./assets/cartridges/skillscat.webp" width="31%" alt="SkillsCat · 发现与分享技能" /></a>
+  <a href="https://github.com/backrunner/Serlink"><img src="./assets/cartridges/serlink.webp" width="31%" alt="Serlink · SSH 与文件传输" /></a>
+  <a href="https://github.com/backrunner/removent"><img src="./assets/cartridges/removent.webp" width="31%" alt="Removent · 远程桌面" /></a>
+  <br />
+  <a href="https://github.com/backrunner/sift"><img src="./assets/cartridges/sift.webp" width="31%" alt="Sift · 本地短信过滤" /></a>
+  <a href="https://github.com/backrunner/svedocs"><img src="./assets/cartridges/svedocs.webp" width="31%" alt="svedocs · SvelteKit 文档框架" /></a>
+  <a href="https://github.com/backrunner/glidepod"><img src="./assets/cartridges/glidepod.webp" width="31%" alt="GlidePod · Mac 上的 Android" /></a>
 </p>
 
-**[pwp.space](https://pwp.space)** 是一个小小的 Misskey 社区。聊项目、网页、突然冒出来的想法，也可以只是分享日常。
-
-**[在联邦宇宙打个招呼 →](https://pwp.space/@backrunner)** · [逛逛 pwp.space](https://pwp.space)
+- **[QuaEngine](https://github.com/QuaDevTeam/QuaEngine)** · 用 QuaScript 和 TypeScript 编写故事、分支与演出，搭配 Electron 创作工作台。
+- **[mixless](https://github.com/backrunner/mixless)** · 双唱盘、自动混音与本地 AI 音频分析，把自己的音乐连成一场演出。
+- **[AIPass](https://github.com/backrunner/aipass)** · 把 AI 服务密钥与支持的订阅账户放进本地加密保险库，连接桌面、CLI 和浏览器工作流。
+- **[SkillsCat](https://github.com/SkillsCat/skillscat)** · 发现、发布和安装 AI Agent 技能的开放平台与命令行工具。
+- **[Serlink](https://github.com/backrunner/Serlink)** · 整理 SSH 会话、SFTP 传输和服务器连接的私密工作台。开发中，公开正式版本尚未就绪。
+- **[Removent](https://github.com/backrunner/removent)** · 通过局域网或自建中继连接远程桌面，也可用 iPhone、iPad 控制 Mac。
+- **[Sift](https://github.com/backrunner/sift)** · 在 iPhone 本地分类和过滤短信。开发中，尚未上架 App Store。
+- **[svedocs](https://github.com/backrunner/svedocs)** · 面向边缘部署的 SvelteKit 原生文档框架，整合内容、导航、搜索与 Ask AI。开发中。
+- **[GlidePod](https://github.com/backrunner/glidepod)** · 在 Apple Silicon Mac 的独立窗口中运行 Android 应用。实验性开发者预览，需另行准备运行环境。
 
 ## 关于做东西
 
