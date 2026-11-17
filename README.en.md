@@ -12,22 +12,12 @@ This is a collection of my independent products, open-source projects, and a sma
 
 [Find me on the Fediverse](https://pwp.space/@backrunner) · [Email me](mailto:dev@backrunner.top)
 
-## My project tray
+## My project cassette box
 
-Nine projects, each with its own cartridge. Click a cartridge or project name to explore its repository.
+A cassette box for the projects I am building. Click any project name below to open its repository.
 
 <p align="center">
-  <a href="https://github.com/QuaDevTeam/QuaEngine"><img src="./assets/cartridges/quaengine.webp" width="31%" alt="QuaEngine · Visual novel engine" /></a>
-  <a href="https://github.com/backrunner/mixless"><img src="./assets/cartridges/mixless.webp" width="31%" alt="mixless · Native DJ workspace" /></a>
-  <a href="https://github.com/backrunner/aipass"><img src="./assets/cartridges/aipass.webp" width="31%" alt="AIPass · AI credential manager" /></a>
-  <br />
-  <a href="https://github.com/SkillsCat/skillscat"><img src="./assets/cartridges/skillscat.webp" width="31%" alt="SkillsCat · Discover agent skills" /></a>
-  <a href="https://github.com/backrunner/Serlink"><img src="./assets/cartridges/serlink.webp" width="31%" alt="Serlink · SSH & SFTP workspace" /></a>
-  <a href="https://github.com/backrunner/removent"><img src="./assets/cartridges/removent.webp" width="31%" alt="Removent · Remote desktop" /></a>
-  <br />
-  <a href="https://github.com/backrunner/sift"><img src="./assets/cartridges/sift.webp" width="31%" alt="Sift · On-device SMS filtering" /></a>
-  <a href="https://github.com/backrunner/svedocs"><img src="./assets/cartridges/svedocs.webp" width="31%" alt="svedocs · SvelteKit documentation" /></a>
-  <a href="https://github.com/backrunner/glidepod"><img src="./assets/cartridges/glidepod.webp" width="31%" alt="GlidePod · Android apps on Mac" /></a>
+  <img src="./assets/lofi/project-cassette-box.webp" width="100%" alt="A cyan-blue storage box holds nine project cassette cases in the same order as the list below." />
 </p>
 
 - **[QuaEngine](https://github.com/QuaDevTeam/QuaEngine)** · A visual novel engine with QuaScript stories, TypeScript logic, and an Electron authoring workspace.
