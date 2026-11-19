@@ -24,9 +24,9 @@
 - **[mixless](https://github.com/backrunner/mixless)** · 本地 DJ 混音工具，支持双唱盘、自动混音和本地 AI 音频分析。
 - **[AIPass](https://github.com/backrunner/aipass)** · 本地加密的 AI 凭证管理工具，把 API Key 和支持的订阅账号统一存起来，供桌面端、CLI 和浏览器工作流共用。
 - **[SkillsCat](https://github.com/SkillsCat/skillscat)** · 用来发现、发布和安装 AI Agent 技能的开放平台与 CLI 工具。
-- **[Serlink](https://github.com/backrunner/Serlink)** · 管理 SSH 会话、SFTP 传输和服务器连接的桌面工作台（开发中，暂未发布正式版）。
+- **[Serlink](https://github.com/backrunner/Serlink)** · 管理 SSH 会话、SFTP 传输和服务器连接的工作台；iPhone/iPad 版已上架 [美国 App Store](https://apps.apple.com/us/app/serlink-ssh-sftp-terminal/id6780579821)。
 - **[Removent](https://github.com/backrunner/removent)** · 通过局域网或自建中继连接远程桌面，支持用 iPhone 和 iPad 控制 Mac。
-- **[Sift](https://github.com/backrunner/sift)** · iPhone 本地短信分类与过滤工具（开发中，尚未上架 App Store）。
+- **[Sift](https://github.com/backrunner/sift)** · iPhone 本地短信分类与过滤工具，已上架 [美国 App Store](https://apps.apple.com/us/app/sift-spam-text-filter/id6788805739)。
 - **[svedocs](https://github.com/backrunner/svedocs)** · 基于 SvelteKit 的文档框架，支持边缘部署，内置内容管理、导航、搜索和 Ask AI（开发中）。
 - **[GlidePod](https://github.com/backrunner/glidepod)** · 在 Apple Silicon Mac 上用独立窗口运行 Android 应用（实验性预览，需自行准备运行环境）。
 
