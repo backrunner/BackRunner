@@ -24,9 +24,9 @@ Here are the projects I'm currently building and maintaining. Click any name to 
 - **[mixless](https://github.com/backrunner/mixless)** · A local DJ mixing app with dual decks, AutoMix, and on-device AI audio analysis.
 - **[AIPass](https://github.com/backrunner/aipass)** · A local encrypted vault for AI API keys and supported subscriptions, shared across desktop, CLI, and browser workflows.
 - **[SkillsCat](https://github.com/SkillsCat/skillscat)** · An open registry and CLI for discovering, publishing, and installing AI agent skills.
-- **[Serlink](https://github.com/backrunner/Serlink)** · A workspace for managing SSH sessions, SFTP transfers, and server connections (in development, no public release yet).
+- **[Serlink](https://github.com/backrunner/Serlink)** · A workspace for managing SSH sessions, SFTP transfers, and server connections, available on the [US App Store](https://apps.apple.com/us/app/serlink-ssh-sftp-terminal/id6780579821) for iPhone and iPad.
 - **[Removent](https://github.com/backrunner/removent)** · Remote desktop over LAN or a self-hosted relay, with iPhone and iPad support for controlling your Mac.
-- **[Sift](https://github.com/backrunner/sift)** · On-device SMS classification and filtering for iPhone (pre-release, not on the App Store yet).
+- **[Sift](https://github.com/backrunner/sift)** · On-device SMS classification and filtering for iPhone, available on the [US App Store](https://apps.apple.com/us/app/sift-spam-text-filter/id6788805739).
 - **[svedocs](https://github.com/backrunner/svedocs)** · A SvelteKit-native docs framework for edge deployment, with built-in navigation, search, and Ask AI (in active development).
 - **[GlidePod](https://github.com/backrunner/glidepod)** · Run Android apps in standalone windows on Apple Silicon Macs (experimental preview, requires a separate runtime).
 
